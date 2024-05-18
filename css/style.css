@@ -6,6 +6,7 @@ body {
   justify-content: center;
   height: 100vh;
   background-color: #d33e3e;
+  overflow: hidden;
 }
 
 .birthdayCard {
